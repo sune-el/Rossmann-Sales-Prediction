@@ -3,7 +3,7 @@
 Problem Statement
 This project involves solving a real-world business problem of sales forecasting and building up a machine learning model for the same. Our goal here is to forecast the sales for six weeks for each store and find out the factors influencing it and recommend ways in order to improve the numbers.
 
-#Data Description
+# Data Description
 Id - an Id that represents a (Store, Date) duple within the set
 
 Store - a unique Id for each store
@@ -34,14 +34,14 @@ Promo2Since[Year/Week] – describes the year and calendar week when the store s
 
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store.
 
-#Data Pipeline
-#Data Processing
+# Data Pipeline
+# Data Processing
 Understanding and cleaning the data
 
-#Data Exploration
+# Data Exploration
 Analyse the data through visualization
 
-#Model Performing
+# Model Performing
 ![2464176](https://user-images.githubusercontent.com/105907502/185940419-ae528644-0191-47ed-87fd-02304cf0fd4d.png)
 
 Linear Regression
