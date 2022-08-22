@@ -50,7 +50,7 @@ Decision Tree
 
 Random Forest
 
-Conclusion
+# Conclusion
 Upon having this analysis, it can be established that given the dataset, the model developed is able to explain 95.5878 % of the variations and is able to predict the sales values in a good range.
 
 Random Forest Tuned Model gave the best results and only 0.062% improvement was seen from the basic random forest model which indicates that all the trends and patterns that could be captured by these models without overfitting were done and maximum level of performance achievable by the model was achieved.
